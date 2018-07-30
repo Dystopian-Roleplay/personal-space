@@ -6,7 +6,7 @@
         "Southclaws/samp-logger",
         "pawn-lang/YSI-Includes",
         "samp-incognito/samp-streamer-plugin",
-        "ScavengeSurvive/mathutil"
+        "Dystopian-Roleplay/mathutil"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
