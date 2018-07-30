@@ -6,7 +6,7 @@
         "Southclaws/samp-logger",
         "pawn-lang/YSI-Includes",
         "samp-incognito/samp-streamer-plugin",
-        "Dystopian-Roleplay/mathutil"
+        "Dystopian-Roleplay/mathutil@2.0.0"
     ],
-    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate@2.0.0"]
 }
